@@ -1,0 +1,26 @@
+body{  
+      padding-left:6rem;
+    margin-left: 8px;
+  
+}
+p{
+    font-size:5px;
+    overflow:hidden;
+}
+p{
+    font-size: large;
+    color: blue;
+}
+.main_2{
+    display: flex;
+    justify-content:space-around;
+    
+}
+.one{
+    margin-right: 30px;
+    margin-left: 20px;
+}
+.hii{
+ 
+    text-align: left;
+}
